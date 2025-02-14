@@ -10,7 +10,7 @@ const numOnePlusNumTwo = numOne + numTwo;
 console.log(numOnePlusNumTwo); // Output: 24
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
-const numThreeTimesNumTwo = numThree * numOnePlusNumTwo;
+const numThreeTimesNumTwo = numThree * numTwo;
 console.log(numThreeTimesNumTwo); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
@@ -27,4 +27,4 @@ console.log(sum); // Output: 56
 
 // 6. Imposta questa variabile come somma di numOne, numTwo, numThree diviso numOne
 const numBytes = (numOne + numTwo + numThree) / numOne;
-console.log(numBytes); // Output: 
+console.log(numBytes); // Output: 7
